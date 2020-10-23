@@ -1,0 +1,7 @@
+name = "TestQtTravis"
+uuid = "bdd5f240-b4a9-4be9-8e9e-af6b60ca9577"
+authors = ["Bart Janssens <bart@bartjanssens.org>"]
+version = "0.1.0"
+
+[deps]
+Qt_jll = "ede63266-ebff-546c-83e0-1c6fb6d0efc8"
