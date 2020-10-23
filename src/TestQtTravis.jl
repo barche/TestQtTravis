@@ -1,5 +1,5 @@
 module TestQtTravis
 
-using Qt_jll
+# using Qt_jll
 
 end # module
