@@ -11,5 +11,7 @@ deps = Library(l)
 @show deps
 display(deps)
 
+using Qt_jll
+
 # @show TestQtTravis.Qt_jll.libqt53danimation_path
 # run(`otool -L $(TestQtTravis.Qt_jll.libqt53danimation_path)`)
