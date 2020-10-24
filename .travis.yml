@@ -1,8 +1,9 @@
 language: julia
 
-os:
-  - osx
-    osx_image: xcode11.6
+jobs:
+  include:
+    - os: osx
+      osx_image: xcode11.6
 
 julia:
   - 1.5
