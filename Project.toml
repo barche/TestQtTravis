@@ -4,5 +4,6 @@ authors = ["Bart Janssens <bart@bartjanssens.org>"]
 version = "0.1.0"
 
 [deps]
+DependencyWalker = "7db386b5-e858-4964-8eb4-2fa66f8df882"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Qt_jll = "ede63266-ebff-546c-83e0-1c6fb6d0efc8"
